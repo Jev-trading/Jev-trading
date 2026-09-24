@@ -1,4 +1,4 @@
-# ⚡ Jev-trading: The Ultimate AI Terminal for Algo-Trading
+# ⚡Jev-trading: The Ultimate AI Terminal for Algo-Trading
 
 Jev-trading is a desktop application that combines the ultra-fast neural network model **Jev** (by TypeSafe AI) with an intuitive visual interface. We've created a platform where the power of algorithmic trading is accessible without writing a single line of code, messing with Python scripts, or configuring servers in the terminal.
 
