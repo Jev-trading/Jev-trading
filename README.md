@@ -82,3 +82,17 @@ The window you keep open while working.
 * **Active Bot Cards:** The status of each running algorithm and its current profit for the day/week.
 * **AI Log:** A unique feature showing why the bot *did not* enter a trade. (For example: *"Buy signal ignored. JEV confidence was 74%, required 90%"*). This provides a complete understanding of the system's logic.
 * **Notifications:** Telegram integration for receiving alerts about every executed trade right on your phone.
+
+## ⚠️ Disclaimer
+
+**Risk Warning:** Trading financial instruments, cryptocurrencies, and altcoins involves high risk and can result in the loss of your entire capital.
+
+* **Educational Purpose Only:** Jev-trading is provided solely for software, analytical, and educational purposes. Nothing in this software or documentation constitutes financial, investment, legal, or trading advice.
+* **No Guarantees:** Past market performance, historical backtesting metrics, and AI confidence scores do not guarantee future returns.
+* **User Responsibility:** You are solely responsible for managing your financial risk, credentials, API permissions, and trade parameters. The authors and maintainers assume no liability for any direct or indirect financial losses incurred while using this application.
+
+---
+
+## 📄 License
+
+Distributed under the **MIT License**
